@@ -1,3 +1,5 @@
+// Servidor HTTP en el puerto 5000 que responde con la hora actual
+
 import java.io.*;
 import java.net.*;
 import java.time.LocalTime;
